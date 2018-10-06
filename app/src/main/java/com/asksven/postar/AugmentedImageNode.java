@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.google.ar.sceneform.samples.augmentedimage;
+package com.asksven.postar;
 
 import android.content.Context;
 import android.net.Uri;
@@ -29,6 +29,7 @@ import com.google.ar.sceneform.math.Vector3;
 import com.google.ar.sceneform.rendering.ModelRenderable;
 import com.google.ar.sceneform.rendering.Renderable;
 import com.google.ar.sceneform.rendering.ViewRenderable;
+import com.google.ar.sceneform.samples.augmentedimage.R;
 
 import java.util.concurrent.CompletableFuture;
 

@@ -17,7 +17,7 @@
 android {
     compileSdkVersion 27
     defaultConfig {
-        applicationId "com.google.ar.sceneform.samples.augmentedimage"
+        applicationId "com.asksven.postar"
 
         // 24 is the minimum since Sceneform requires Android N.
         minSdkVersion 24

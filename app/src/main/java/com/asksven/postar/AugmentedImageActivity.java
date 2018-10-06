@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.google.ar.sceneform.samples.augmentedimage;
+package com.asksven.postar;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -24,7 +24,8 @@ import com.google.ar.core.AugmentedImage;
 import com.google.ar.core.Frame;
 import com.google.ar.core.TrackingState;
 import com.google.ar.sceneform.FrameTime;
-import com.google.ar.sceneform.samples.common.helpers.SnackbarHelper;
+import com.asksven.postar.common.helpers.SnackbarHelper;
+import com.google.ar.sceneform.samples.augmentedimage.R;
 import com.google.ar.sceneform.ux.ArFragment;
 import java.util.Collection;
 import java.util.HashMap;
